@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:app_milli/models/produto_model.dart';
 import 'package:muller_package/muller_package.dart';
 
-String endpoint = "http://localhost:5000/v1/milli/produtos";
+String endpoint = "http://localhost:5000/v1/mili/produtos";
 
 Future<List<ProdutoModel>> sendRequestGetProdutos() async {
   AppResponse response = await getHTTP(endpoint: "$endpoint/todos");
