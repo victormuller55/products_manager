@@ -32,7 +32,6 @@ O projeto utiliza a biblioteca personalizada **muller_package**, desenvolvida po
 
 - Dart SDK e Flutter instalados.
 - Android Studio configurado.
-- Dispositivo ou emulador Android configurado.
 
 ## Como Rodar o Projeto
 
